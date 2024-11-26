@@ -1,4 +1,54 @@
-body{
-    background-color: black;
-    color: white;
+
+
+#background{
+    width: 1520px;
+    height: 3000px;
+    background: rgb(0, 0, 0);
+    margin-top: -10px;
+    margin-left: -10px;
+}
+
+#vak1{
+
+    width: 1530px;
+   height: 100px;
+    background: rgb(101, 95, 95);
+    margin-top: -10px;
+    margin-left: -10px;
+
+}
+#logo{
+    margin-top: 0px;
+    margin-left: 700px;
+    width: 120px;
+    height: 100px;
+} 
+#rickpuffer{
+
+    margin-top: 30px;
+    margin-left: 700px;
+    width: 200px;
+height: 300px;
+
+}
+#TitleText{
+
+    font-size: 50px;
+    margin-top: -200px;
+    margin-left: -660px;
+    display: inline-block;
+}   
+#TitleText2{
+    font-size: 50px;
+    margin-top: 0px;
+    margin-left: 500px;
+    display: inline-block;
+
+
+}
+#jackets{
+    font-size: 100px;
+    margin-top: 200px;
+    margin-left: 550px;
+    color: aliceblue;
 }
